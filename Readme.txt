@@ -1,1 +1,1 @@
-Hey there! It's Nujhath!
+Some simple coding problems solved. 
